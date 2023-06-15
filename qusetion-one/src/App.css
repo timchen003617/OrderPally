@@ -1,0 +1,43 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.itemWrapper {
+  width: 500px;
+}
+
+.bg1 {
+  background-color: #ededed;
+}
+
+.bg2 {
+  background-color: #000;
+}
+
+.item {
+  text-align: left;
+  padding: 5px;
+  margin: 12.5px;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.bg1 p {
+  margin: 10px;
+}
+
+.bg2 p {
+  font-size: 18px;
+  margin: 0;
+}
+
+.title {
+  color: white;
+  text-align: left;
+  text-indent: 5px;
+}
